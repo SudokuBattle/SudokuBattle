@@ -1,0 +1,6 @@
+{
+  "name": "Sudoku Battle",
+  "description": "A multiplayer Sudoku game where players reveal numbers to gain power and attack their opponent. Win by completing the board or depleting the opponent's health.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
